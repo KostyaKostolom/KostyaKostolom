@@ -1,16 +1,25 @@
 ## Hi there 👋
 
-<!--
-**KostyaKostolom/KostyaKostolom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Who I am
+Social analyst and penetration tester.  
+Interested in web exploitation and non-web security.
 
-Here are some ideas to get you started:
+## What I want to work as
+Penetration Tester / Web Security Specialist.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tools I use
+- Burp Suite  
+- Nmap  
+- Metasploit  
+- SQLmap  
+- Linux  
+- Git  
+- Amass  
+- FFUF  
+- Subfinder  
+- Ghidra  
+- mitmproxy  
+
+## Contact
+Telegram: @KostyaKostolom1
+
